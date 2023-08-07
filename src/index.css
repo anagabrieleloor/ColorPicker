@@ -49,6 +49,11 @@ body {
   border: 2px solid black;
 }
 
+.color {
+  height: 60px;
+  width: 60px;
+}
+
 /* colors */
 .red {
   background-color: #cf000f;
